@@ -16,9 +16,13 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Computer Science Notes
-  description: "Computer Science Notes and whatnot"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: CS Centre
+  description: "An open-source project for all the Computer Science resources and notes we/you have come across/made during your A-Level Computer Science Journey.
+
+This project has been developed by [Vangmay Sachan](https://github.com/Vangmay), [Mahi Agarwal](https://github.com/mahi-agarwal) and [Ojas](https://github.com/0jas0jas) and possesses a [MIT License](/LICENSE).
+
+The project is open-source and contributions are appreciated and encouraged."
+  keywords: [Computer Science, Notes, A-Levels, Cambridge, CS, Computing, Networking, data]
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -69,16 +73,15 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome Computer Science Notes
+    Title: "Welcome to CS Centre \U0001F44B"
+    Content: An open-source project for all the Computer Science resources and notes we/you have come across/made during your A-Level Computer Science Journey.
+            Developed by [Vangmay Sachan](https://github.com/Vangmay), [Mahi Agarwal](https://github.com/mahi-agarwal) and [Ojas](https://github.com/0jas0jas).
+            The project is open-source and contributions are appreciated and encouraged.
+
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/HC-Byte-Club/CS-Centre"
 
   analytics:
     google:
