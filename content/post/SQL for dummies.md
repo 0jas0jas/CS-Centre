@@ -2,6 +2,8 @@
 title: "SQL for dummies"
 date: 2023-03-25T12:55:37+05:30
 draft: false
+tags: ["SQL", "Programming Languages", "Database"]
+categories: ["Database"]
 ---
 
 - SQL (Structured Query Language) is a declarative programming language used to manage databases
